@@ -1,4 +1,4 @@
-﻿# Text-Classification
+# Text-Classification
 [![](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/)
 [![](https://img.shields.io/badge/pandas-0.21.0-brightgreen.svg)](https://pypi.python.org/pypi/pandas/0.21.0)
 [![](https://img.shields.io/badge/numpy-1.13.1-brightgreen.svg)](https://pypi.python.org/pypi/numpy/1.13.1)
@@ -83,5 +83,23 @@ score = sum(y_predict == np.array(y_test)) / len(y_test)
 print(score)  # 0.9288
 ```
 
+……进行测试
 
+1. ## 
+
+[](http://localhos…ba70-33d7adcc3a88:1)
+
+# ###
+
+####
+
+#### 
+
+### 哈哈
+
+1. ```
+   print('hello world')
+   ```
+
+   
 
